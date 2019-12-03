@@ -10,4 +10,8 @@ You start with table full of crosses. Your goal is to get rid of crosses by remo
 ## explanation
 Each cross corresponds to possible location of the princess. Removing crosses corresponds to checking rooms.
 
+## compilation
+
+checked on vs2019
+
 https://github.com/OneLoneCoder/olcPixelGameEngine
